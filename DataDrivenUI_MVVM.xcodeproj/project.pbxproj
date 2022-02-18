@@ -100,6 +100,7 @@
 		D899DEE827A01E3B0001065B = {
 			isa = PBXGroup;
 			children = (
+				D816339C27A1AA4D000315C6 /* README.md */,
 				D899DEF327A01E3B0001065B /* DataDrivenUI_MVVM */,
 				D899DEF227A01E3B0001065B /* Products */,
 			);
@@ -121,7 +122,6 @@
 				D816339B27A17373000315C6 /* App */,
 				D816339927A17356000315C6 /* Resources */,
 				D899DF0227A01E3C0001065B /* Info.plist */,
-				D816339C27A1AA4D000315C6 /* README.md */,
 			);
 			path = DataDrivenUI_MVVM;
 			sourceTree = "<group>";
